@@ -1,1 +1,4 @@
-something to make my life easier
+```
+Install : firefox, geckodriver
+go build
+```
