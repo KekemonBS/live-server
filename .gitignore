@@ -1,0 +1,5 @@
+env
+live-server.*
+vendor
+session.vim
+
