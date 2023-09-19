@@ -1,5 +1,5 @@
 env
-live-server.*
+live-server
 vendor
 session.vim
 
